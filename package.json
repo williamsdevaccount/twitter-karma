@@ -1,0 +1,8 @@
+{
+  "name": "twitter-karma",
+  "version": "0.0.1",
+  "dependencies": {
+    "algorithmia": "^0.3.10",
+    "lodash": "^4.17.4"
+  }
+}
