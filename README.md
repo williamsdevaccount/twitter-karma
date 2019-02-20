@@ -1,5 +1,7 @@
 # twitter-karma
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/williamsdevaccount/twitter-karma.svg)](https://greenkeeper.io/)
+
 
 Use this service to determine how negative you or a friend are on twitter.This function uses webtask and the algroithma service. to use simply clone this repository,create a twitter app,make a algorithma account, and then upload to webtask.io
 
